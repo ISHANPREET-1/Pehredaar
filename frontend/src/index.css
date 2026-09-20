@@ -1,0 +1,79 @@
+:root {
+  --bg: #05070a;
+  --bg-panel: rgba(8, 12, 11, 0.92);
+  --bg-panel-solid: #0a0f0d;
+  --fg: #e7f3ec;
+  --fg-dim: #9bb0a8;
+  --fg-faint: #5f7269;
+  --accent: #61dca3;
+  --accent-2: #61b3dc;
+  --border: rgba(97, 220, 163, 0.22);
+  --border-strong: rgba(97, 220, 163, 0.45);
+
+  --band-clean: #6be8ac;
+  --band-suspicious: #f0d878;
+  --band-likely: #f0a05c;
+  --band-compromised: #f2685f;
+
+  --mono: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+
+  color-scheme: dark;
+  color: var(--fg);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--mono);
+  background: var(--bg);
+  color: var(--fg);
+}
+
+#root {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--mono);
+  font-weight: 600;
+  color: var(--fg);
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  color: var(--fg-dim);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--accent-2);
+}
+
+button {
+  font-family: var(--mono);
+}
+
+::selection {
+  background: rgba(97, 220, 163, 0.3);
+  color: var(--fg);
+}

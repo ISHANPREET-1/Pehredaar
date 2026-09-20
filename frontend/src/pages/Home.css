@@ -1,0 +1,41 @@
+.home-page {
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: clamp(1.5rem, 6vw, 2rem);
+}
+
+.home-title {
+  font-size: clamp(3rem, 11vw, 7rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--fg);
+  text-shadow: 0 0 60px rgba(97, 220, 163, 0.28);
+}
+
+.home-actions {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 420px) {
+  .home-actions {
+    gap: 0.75rem;
+  }
+
+  .home-actions .btn {
+    width: 100%;
+    max-width: 260px;
+  }
+}

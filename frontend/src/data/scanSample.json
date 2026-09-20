@@ -1,0 +1,1630 @@
+{
+  "sourceScan": "scan-20260919T113406Z.jsonl",
+  "totalScanned": 151,
+  "lookup": [
+    {
+      "domain": "telangana.gov.in",
+      "institutionName": "Government of Telangana",
+      "sectorLabel": "Government",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:32.092214+00:00"
+    },
+    {
+      "domain": "wb.gov.in",
+      "institutionName": "Government of West Bengal",
+      "sectorLabel": "Government",
+      "state": "West Bengal",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:23.667011+00:00"
+    },
+    {
+      "domain": "tripura.gov.in",
+      "institutionName": "Government of Tripura",
+      "sectorLabel": "Government",
+      "state": "Tripura",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:18.877154+00:00"
+    },
+    {
+      "domain": "up.gov.in",
+      "institutionName": "Government of Uttar Pradesh",
+      "sectorLabel": "Government",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:17.305182+00:00"
+    },
+    {
+      "domain": "tn.gov.in",
+      "institutionName": "Government of Tamil Nadu",
+      "sectorLabel": "Government",
+      "state": "Tamil Nadu",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:09.870218+00:00"
+    },
+    {
+      "domain": "py.gov.in",
+      "institutionName": "Government of Puducherry",
+      "sectorLabel": "Government",
+      "state": "Puducherry",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:05.976259+00:00"
+    },
+    {
+      "domain": "www.sikkim.gov.in",
+      "institutionName": "Government of Sikkim",
+      "sectorLabel": "Government",
+      "state": "Sikkim",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:05.408340+00:00"
+    },
+    {
+      "domain": "rajasthan.gov.in",
+      "institutionName": "Government of Rajasthan",
+      "sectorLabel": "Government",
+      "state": "Rajasthan",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:45:02.469473+00:00"
+    },
+    {
+      "domain": "aiimsbhubaneswar.nic.in",
+      "institutionName": "AIIMS Bhubaneswar",
+      "sectorLabel": "Government",
+      "state": "Odisha",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:57.117223+00:00"
+    },
+    {
+      "domain": "odisha.gov.in",
+      "institutionName": "Government of Odisha",
+      "sectorLabel": "Government",
+      "state": "Odisha",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:54.570726+00:00"
+    },
+    {
+      "domain": "maharashtra.gov.in",
+      "institutionName": "Government of Maharashtra",
+      "sectorLabel": "Government",
+      "state": "Maharashtra",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:52.286954+00:00"
+    },
+    {
+      "domain": "mizoram.gov.in",
+      "institutionName": "Government of Mizoram",
+      "sectorLabel": "Government",
+      "state": "Mizoram",
+      "band": "suspicious",
+      "score": 24.4,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:51.564899+00:00"
+    },
+    {
+      "domain": "nagaland.gov.in",
+      "institutionName": "Government of Nagaland",
+      "sectorLabel": "Government",
+      "state": "Nagaland",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:51.534584+00:00"
+    },
+    {
+      "domain": "manipur.gov.in",
+      "institutionName": "Government of Manipur",
+      "sectorLabel": "Government",
+      "state": "Manipur",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:32.539211+00:00"
+    },
+    {
+      "domain": "meghalaya.gov.in",
+      "institutionName": "Government of Meghalaya",
+      "sectorLabel": "Government",
+      "state": "Meghalaya",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:32.323391+00:00"
+    },
+    {
+      "domain": "lakshadweep.gov.in",
+      "institutionName": "Government of Lakshadweep",
+      "sectorLabel": "Government",
+      "state": "Lakshadweep",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:20.869334+00:00"
+    },
+    {
+      "domain": "jharkhand.gov.in",
+      "institutionName": "Government of Jharkhand",
+      "sectorLabel": "Government",
+      "state": "Jharkhand",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:19.661952+00:00"
+    },
+    {
+      "domain": "ladakh.gov.in",
+      "institutionName": "Government of Ladakh",
+      "sectorLabel": "Government",
+      "state": "Ladakh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:17.566383+00:00"
+    },
+    {
+      "domain": "kerala.gov.in",
+      "institutionName": "Government of Kerala",
+      "sectorLabel": "Government",
+      "state": "Kerala",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:14.863006+00:00"
+    },
+    {
+      "domain": "haryana.gov.in",
+      "institutionName": "Government of Haryana",
+      "sectorLabel": "Government",
+      "state": "Haryana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:44:00.218699+00:00"
+    },
+    {
+      "domain": "himachal.gov.in",
+      "institutionName": "Government of Himachal Pradesh",
+      "sectorLabel": "Government",
+      "state": "Himachal Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:59.655209+00:00"
+    },
+    {
+      "domain": "goa.gov.in",
+      "institutionName": "Government of Goa",
+      "sectorLabel": "Government",
+      "state": "Goa",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:56.710859+00:00"
+    },
+    {
+      "domain": "delhi.gov.in",
+      "institutionName": "Government of Delhi",
+      "sectorLabel": "Government",
+      "state": "Delhi",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:52.006915+00:00"
+    },
+    {
+      "domain": "cgstate.gov.in",
+      "institutionName": "Government of Chhattisgarh",
+      "sectorLabel": "Government",
+      "state": "Chhattisgarh",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:50.561837+00:00"
+    },
+    {
+      "domain": "ddd.gov.in",
+      "institutionName": "Government of Dadra and Nagar Haveli and Daman and Diu",
+      "sectorLabel": "Government",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:45.929259+00:00"
+    },
+    {
+      "domain": "assam.gov.in",
+      "institutionName": "Government of Assam",
+      "sectorLabel": "Government",
+      "state": "Assam",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:37.282687+00:00"
+    },
+    {
+      "domain": "arunachalpradesh.gov.in",
+      "institutionName": "Government of Arunachal Pradesh",
+      "sectorLabel": "Government",
+      "state": "Arunachal Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:34.920473+00:00"
+    },
+    {
+      "domain": "ap.gov.in",
+      "institutionName": "Government of Andhra Pradesh",
+      "sectorLabel": "Government",
+      "state": "Andhra Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:26.610187+00:00"
+    },
+    {
+      "domain": "www.iiests.ac.in",
+      "institutionName": "IIEST Shibpur",
+      "sectorLabel": "Education",
+      "state": "West Bengal",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:24.516319+00:00"
+    },
+    {
+      "domain": "andamannicobar.gov.in",
+      "institutionName": "Government of Andaman and Nicobar Islands",
+      "sectorLabel": "Government",
+      "state": "Andaman and Nicobar Islands",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:22.406951+00:00"
+    },
+    {
+      "domain": "www.iitkgp.ac.in",
+      "institutionName": "IIT Kharagpur",
+      "sectorLabel": "Education",
+      "state": "West Bengal",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:20.980977+00:00"
+    },
+    {
+      "domain": "aiimskalyani.edu.in",
+      "institutionName": "AIIMS Kalyani",
+      "sectorLabel": "Education",
+      "state": "West Bengal",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:20.273490+00:00"
+    },
+    {
+      "domain": "visvabharati.ac.in",
+      "institutionName": "Visva-Bharati University",
+      "sectorLabel": "Education",
+      "state": "West Bengal",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:15.042389+00:00"
+    },
+    {
+      "domain": "nitdgp.ac.in",
+      "institutionName": "NIT Durgapur",
+      "sectorLabel": "Education",
+      "state": "West Bengal",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:10.923064+00:00"
+    },
+    {
+      "domain": "www.iitr.ac.in",
+      "institutionName": "IIT Roorkee",
+      "sectorLabel": "Education",
+      "state": "Uttarakhand",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:43:02.217771+00:00"
+    },
+    {
+      "domain": "aiimsrishikesh.edu.in",
+      "institutionName": "AIIMS Rishikesh",
+      "sectorLabel": "Education",
+      "state": "Uttarakhand",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:58.125023+00:00"
+    },
+    {
+      "domain": "nituk.ac.in",
+      "institutionName": "NIT Uttarakhand",
+      "sectorLabel": "Education",
+      "state": "Uttarakhand",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:54.408724+00:00"
+    },
+    {
+      "domain": "hnbgu.ac.in",
+      "institutionName": "Hemwati Nandan Bahuguna Garhwal University",
+      "sectorLabel": "Education",
+      "state": "Uttarakhand",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:51.193645+00:00"
+    },
+    {
+      "domain": "www.rlbcau.ac.in",
+      "institutionName": "Rani Lakshmi Bai Central Agricultural University",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:47.496002+00:00"
+    },
+    {
+      "domain": "www.mnnit.ac.in",
+      "institutionName": "NIT Allahabad",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:43.983157+00:00"
+    },
+    {
+      "domain": "www.iitk.ac.in",
+      "institutionName": "IIT Kanpur",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:40.237641+00:00"
+    },
+    {
+      "domain": "www.iiitl.ac.in",
+      "institutionName": "IIIT Lucknow",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:34.959083+00:00"
+    },
+    {
+      "domain": "www.iitbhu.ac.in",
+      "institutionName": "IIT (BHU) Varanasi",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:34.469499+00:00"
+    },
+    {
+      "domain": "www.bbau.ac.in",
+      "institutionName": "Babasaheb Bhimrao Ambedkar University",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:19.801176+00:00"
+    },
+    {
+      "domain": "www.aiimsrbl.edu.in",
+      "institutionName": "AIIMS Raebareli",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:18.764482+00:00"
+    },
+    {
+      "domain": "www.allduniv.ac.in",
+      "institutionName": "University of Allahabad",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:17.326824+00:00"
+    },
+    {
+      "domain": "rgnau.ac.in",
+      "institutionName": "Rajiv Gandhi National Aviation University",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:13.059678+00:00"
+    },
+    {
+      "domain": "bhu.ac.in",
+      "institutionName": "Banaras Hindu University",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:08.527755+00:00"
+    },
+    {
+      "domain": "iiita.ac.in",
+      "institutionName": "IIIT Allahabad",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:42:06.085050+00:00"
+    },
+    {
+      "domain": "aiimsgorakhpur.edu.in",
+      "institutionName": "AIIMS Gorakhpur",
+      "sectorLabel": "Education",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:53.515304+00:00"
+    },
+    {
+      "domain": "www.nita.ac.in",
+      "institutionName": "NIT Agartala",
+      "sectorLabel": "Education",
+      "state": "Tripura",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:52.206206+00:00"
+    },
+    {
+      "domain": "iiitagartala.ac.in",
+      "institutionName": "IIIT Agartala",
+      "sectorLabel": "Education",
+      "state": "Tripura",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:45.345888+00:00"
+    },
+    {
+      "domain": "www.nitw.ac.in",
+      "institutionName": "NIT Warangal",
+      "sectorLabel": "Education",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:43.535792+00:00"
+    },
+    {
+      "domain": "ssctu.ac.in",
+      "institutionName": "Sammakka Sarakka Central Tribal University",
+      "sectorLabel": "Education",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:42.409316+00:00"
+    },
+    {
+      "domain": "www.iith.ac.in",
+      "institutionName": "IIT Hyderabad",
+      "sectorLabel": "Education",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:41.160101+00:00"
+    },
+    {
+      "domain": "www.efluniversity.ac.in",
+      "institutionName": "English and Foreign Languages University",
+      "sectorLabel": "Education",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:37.098920+00:00"
+    },
+    {
+      "domain": "uohyd.ac.in",
+      "institutionName": "University of Hyderabad",
+      "sectorLabel": "Education",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:36.001306+00:00"
+    },
+    {
+      "domain": "manuu.edu.in",
+      "institutionName": "Maulana Azad National Urdu University",
+      "sectorLabel": "Education",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:30.667496+00:00"
+    },
+    {
+      "domain": "aiimsbibinagar.edu.in",
+      "institutionName": "AIIMS Bibinagar",
+      "sectorLabel": "Education",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:26.455440+00:00"
+    },
+    {
+      "domain": "www.iitm.ac.in",
+      "institutionName": "IIT Madras",
+      "sectorLabel": "Education",
+      "state": "Tamil Nadu",
+      "band": "suspicious",
+      "score": 34.1,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:22.004585+00:00"
+    },
+    {
+      "domain": "cutn.ac.in",
+      "institutionName": "Central University of Tamil Nadu",
+      "sectorLabel": "Education",
+      "state": "Tamil Nadu",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:10.737897+00:00"
+    },
+    {
+      "domain": "www.pondiuni.edu.in",
+      "institutionName": "Pondicherry University",
+      "sectorLabel": "Education",
+      "state": "Puducherry",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:10.583164+00:00"
+    },
+    {
+      "domain": "aiimsmadurai.edu.in",
+      "institutionName": "AIIMS Madurai",
+      "sectorLabel": "Education",
+      "state": "Tamil Nadu",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:41:05.855168+00:00"
+    },
+    {
+      "domain": "www.cus.ac.in",
+      "institutionName": "Sikkim University",
+      "sectorLabel": "Education",
+      "state": "Sikkim",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:59.944331+00:00"
+    },
+    {
+      "domain": "nitsikkim.ac.in",
+      "institutionName": "NIT Sikkim",
+      "sectorLabel": "Education",
+      "state": "Sikkim",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:57.619045+00:00"
+    },
+    {
+      "domain": "www.curaj.ac.in",
+      "institutionName": "Central University of Rajasthan",
+      "sectorLabel": "Education",
+      "state": "Rajasthan",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:49.798747+00:00"
+    },
+    {
+      "domain": "mnit.ac.in",
+      "institutionName": "NIT Jaipur",
+      "sectorLabel": "Education",
+      "state": "Rajasthan",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:48.654837+00:00"
+    },
+    {
+      "domain": "iiitkota.ac.in",
+      "institutionName": "IIIT Kota",
+      "sectorLabel": "Education",
+      "state": "Rajasthan",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:47.093657+00:00"
+    },
+    {
+      "domain": "aiimsjodhpur.edu.in",
+      "institutionName": "AIIMS Jodhpur",
+      "sectorLabel": "Education",
+      "state": "Rajasthan",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:40.458476+00:00"
+    },
+    {
+      "domain": "www.nitj.ac.in",
+      "institutionName": "NIT Jalandhar",
+      "sectorLabel": "Education",
+      "state": "Punjab",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:40.254584+00:00"
+    },
+    {
+      "domain": "www.iitrpr.ac.in",
+      "institutionName": "IIT Ropar",
+      "sectorLabel": "Education",
+      "state": "Punjab",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:33.740258+00:00"
+    },
+    {
+      "domain": "aiimsbathinda.edu.in",
+      "institutionName": "AIIMS Bathinda",
+      "sectorLabel": "Education",
+      "state": "Punjab",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:31.927461+00:00"
+    },
+    {
+      "domain": "www.nitrkl.ac.in",
+      "institutionName": "NIT Rourkela",
+      "sectorLabel": "Education",
+      "state": "Odisha",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:21.135318+00:00"
+    },
+    {
+      "domain": "vnit.ac.in",
+      "institutionName": "NIT Nagpur",
+      "sectorLabel": "Education",
+      "state": "Maharashtra",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:20.730456+00:00"
+    },
+    {
+      "domain": "www.iitbbs.ac.in",
+      "institutionName": "IIT Bhubaneswar",
+      "sectorLabel": "Education",
+      "state": "Odisha",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:17.382319+00:00"
+    },
+    {
+      "domain": "cuo.ac.in",
+      "institutionName": "Central University of Odisha",
+      "sectorLabel": "Education",
+      "state": "Odisha",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:10.661426+00:00"
+    },
+    {
+      "domain": "www.nitnagaland.ac.in",
+      "institutionName": "NIT Nagaland",
+      "sectorLabel": "Education",
+      "state": "Nagaland",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:08.802489+00:00"
+    },
+    {
+      "domain": "www.nitmz.ac.in",
+      "institutionName": "NIT Mizoram",
+      "sectorLabel": "Education",
+      "state": "Mizoram",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:02.582175+00:00"
+    },
+    {
+      "domain": "nagalanduniversity.ac.in",
+      "institutionName": "Nagaland University",
+      "sectorLabel": "Education",
+      "state": "Nagaland",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:40:01.803588+00:00"
+    },
+    {
+      "domain": "www.nehu.ac.in",
+      "institutionName": "North Eastern Hill University",
+      "sectorLabel": "Education",
+      "state": "Meghalaya",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:39:35.416806+00:00"
+    },
+    {
+      "domain": "www.iiitp.ac.in",
+      "institutionName": "IIIT Pune",
+      "sectorLabel": "Education",
+      "state": "Maharashtra",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:39:28.988411+00:00"
+    },
+    {
+      "domain": "www.nitmanipur.ac.in",
+      "institutionName": "NIT Manipur",
+      "sectorLabel": "Education",
+      "state": "Manipur",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:39:24.261081+00:00"
+    },
+    {
+      "domain": "www.manipuruniv.ac.in",
+      "institutionName": "Manipur University",
+      "sectorLabel": "Education",
+      "state": "Manipur",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:39:15.325073+00:00"
+    },
+    {
+      "domain": "cau.ac.in",
+      "institutionName": "Central Agricultural University",
+      "sectorLabel": "Education",
+      "state": "Manipur",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:39:04.970087+00:00"
+    },
+    {
+      "domain": "www.iitb.ac.in",
+      "institutionName": "IIT Bombay",
+      "sectorLabel": "Education",
+      "state": "Maharashtra",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:59.045007+00:00"
+    },
+    {
+      "domain": "iiitn.ac.in",
+      "institutionName": "IIIT Nagpur",
+      "sectorLabel": "Education",
+      "state": "Maharashtra",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:50.743649+00:00"
+    },
+    {
+      "domain": "www.iiti.ac.in",
+      "institutionName": "IIT Indore",
+      "sectorLabel": "Education",
+      "state": "Madhya Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:45.388643+00:00"
+    },
+    {
+      "domain": "sindhucu.ac.in",
+      "institutionName": "Sindhu Central University",
+      "sectorLabel": "Education",
+      "state": "Ladakh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:44.906302+00:00"
+    },
+    {
+      "domain": "www.iiitm.ac.in",
+      "institutionName": "ABV-IIITM Gwalior",
+      "sectorLabel": "Education",
+      "state": "Madhya Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:43.089683+00:00"
+    },
+    {
+      "domain": "www.iiitdmj.ac.in",
+      "institutionName": "IIITDM Jabalpur",
+      "sectorLabel": "Education",
+      "state": "Madhya Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:39.046595+00:00"
+    },
+    {
+      "domain": "www.dhsgsu.edu.in",
+      "institutionName": "Dr. Hari Singh Gour University",
+      "sectorLabel": "Education",
+      "state": "Madhya Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:38.365970+00:00"
+    },
+    {
+      "domain": "www.igntu.ac.in",
+      "institutionName": "Indira Gandhi National Tribal University",
+      "sectorLabel": "Education",
+      "state": "Madhya Pradesh",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:37.295099+00:00"
+    },
+    {
+      "domain": "www.aiimsbhopal.edu.in",
+      "institutionName": "AIIMS Bhopal",
+      "sectorLabel": "Education",
+      "state": "Madhya Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:28.793519+00:00"
+    },
+    {
+      "domain": "iiitbhopal.ac.in",
+      "institutionName": "IIIT Bhopal",
+      "sectorLabel": "Education",
+      "state": "Madhya Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:21.651585+00:00"
+    },
+    {
+      "domain": "www.nitc.ac.in",
+      "institutionName": "NIT Calicut",
+      "sectorLabel": "Education",
+      "state": "Kerala",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:19.493397+00:00"
+    },
+    {
+      "domain": "www.iiitkottayam.ac.in",
+      "institutionName": "IIIT Kottayam",
+      "sectorLabel": "Education",
+      "state": "Kerala",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:13.760155+00:00"
+    },
+    {
+      "domain": "www.cukerala.ac.in",
+      "institutionName": "Central University of Kerala",
+      "sectorLabel": "Education",
+      "state": "Kerala",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:09.214512+00:00"
+    },
+    {
+      "domain": "iitpkd.ac.in",
+      "institutionName": "IIT Palakkad",
+      "sectorLabel": "Education",
+      "state": "Kerala",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:06.867417+00:00"
+    },
+    {
+      "domain": "www.nitk.ac.in",
+      "institutionName": "NIT Karnataka",
+      "sectorLabel": "Education",
+      "state": "Karnataka",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:04.163579+00:00"
+    },
+    {
+      "domain": "www.iitdh.ac.in",
+      "institutionName": "IIT Dharwad",
+      "sectorLabel": "Education",
+      "state": "Karnataka",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:38:02.835058+00:00"
+    },
+    {
+      "domain": "www.iiitr.ac.in",
+      "institutionName": "IIIT Raichur",
+      "sectorLabel": "Education",
+      "state": "Karnataka",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:59.262715+00:00"
+    },
+    {
+      "domain": "www.cuk.ac.in",
+      "institutionName": "Central University of Karnataka",
+      "sectorLabel": "Education",
+      "state": "Karnataka",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:57.078998+00:00"
+    },
+    {
+      "domain": "www.nitjsr.ac.in",
+      "institutionName": "NIT Jamshedpur",
+      "sectorLabel": "Education",
+      "state": "Jharkhand",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:29.993214+00:00"
+    },
+    {
+      "domain": "www.iitism.ac.in",
+      "institutionName": "IIT (ISM) Dhanbad",
+      "sectorLabel": "Education",
+      "state": "Jharkhand",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:22.206660+00:00"
+    },
+    {
+      "domain": "www.cuj.ac.in",
+      "institutionName": "Central University of Jharkhand",
+      "sectorLabel": "Education",
+      "state": "Jharkhand",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:13.120333+00:00"
+    },
+    {
+      "domain": "www.iitjammu.ac.in",
+      "institutionName": "IIT Jammu",
+      "sectorLabel": "Education",
+      "state": "Jammu and Kashmir",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:09.642349+00:00"
+    },
+    {
+      "domain": "www.aiimsjammu.edu.in",
+      "institutionName": "AIIMS Jammu",
+      "sectorLabel": "Education",
+      "state": "Jammu and Kashmir",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:03.198450+00:00"
+    },
+    {
+      "domain": "nitsri.ac.in",
+      "institutionName": "NIT Srinagar",
+      "sectorLabel": "Education",
+      "state": "Jammu and Kashmir",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:37:00.129440+00:00"
+    },
+    {
+      "domain": "aiimsawantipora.edu.in",
+      "institutionName": "AIIMS Awantipora",
+      "sectorLabel": "Education",
+      "state": "Jammu and Kashmir",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:58.179701+00:00"
+    },
+    {
+      "domain": "www.iitmandi.ac.in",
+      "institutionName": "IIT Mandi",
+      "sectorLabel": "Education",
+      "state": "Himachal Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:55.491415+00:00"
+    },
+    {
+      "domain": "nith.ac.in",
+      "institutionName": "NIT Hamirpur",
+      "sectorLabel": "Education",
+      "state": "Himachal Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:54.988048+00:00"
+    },
+    {
+      "domain": "www.iiitu.ac.in",
+      "institutionName": "IIIT Una",
+      "sectorLabel": "Education",
+      "state": "Himachal Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:53.275459+00:00"
+    },
+    {
+      "domain": "www.aiimsbilaspur.edu.in",
+      "institutionName": "AIIMS Bilaspur",
+      "sectorLabel": "Education",
+      "state": "Himachal Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:48.649630+00:00"
+    },
+    {
+      "domain": "www.svnit.ac.in",
+      "institutionName": "NIT Surat",
+      "sectorLabel": "Education",
+      "state": "Gujarat",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:44.713022+00:00"
+    },
+    {
+      "domain": "www.iiitsonepat.ac.in",
+      "institutionName": "IIIT Sonipat",
+      "sectorLabel": "Education",
+      "state": "Haryana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:42.235857+00:00"
+    },
+    {
+      "domain": "www.cuh.ac.in",
+      "institutionName": "Central University of Haryana",
+      "sectorLabel": "Education",
+      "state": "Haryana",
+      "band": "clean",
+      "score": 9.8,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:37.408656+00:00"
+    },
+    {
+      "domain": "aiimsrewari.edu.in",
+      "institutionName": "AIIMS Rewari",
+      "sectorLabel": "Education",
+      "state": "Haryana",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:35.303024+00:00"
+    },
+    {
+      "domain": "www.iitgn.ac.in",
+      "institutionName": "IIT Gandhinagar",
+      "sectorLabel": "Education",
+      "state": "Gujarat",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:30.930333+00:00"
+    },
+    {
+      "domain": "www.iiitvadodara.ac.in",
+      "institutionName": "IIIT Vadodara",
+      "sectorLabel": "Education",
+      "state": "Gujarat",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:29.374054+00:00"
+    },
+    {
+      "domain": "www.aiimsrajkot.edu.in",
+      "institutionName": "AIIMS Rajkot",
+      "sectorLabel": "Education",
+      "state": "Gujarat",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:23.913344+00:00"
+    },
+    {
+      "domain": "www.cug.ac.in",
+      "institutionName": "Central University of Gujarat",
+      "sectorLabel": "Education",
+      "state": "Gujarat",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:22.397871+00:00"
+    },
+    {
+      "domain": "nitdelhi.ac.in",
+      "institutionName": "NIT Delhi",
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:11.310555+00:00"
+    },
+    {
+      "domain": "www.slbsrsv.ac.in",
+      "institutionName": "Shri Lal Bahadur Shastri National Sanskrit University",
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "suspicious",
+      "score": 26.8,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:09.928477+00:00"
+    },
+    {
+      "domain": "www.nitgoa.ac.in",
+      "institutionName": "NIT Goa",
+      "sectorLabel": "Education",
+      "state": "Goa",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:09.797148+00:00"
+    },
+    {
+      "domain": "iitgoa.ac.in",
+      "institutionName": "IIT Goa",
+      "sectorLabel": "Education",
+      "state": "Goa",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:09.410147+00:00"
+    },
+    {
+      "domain": "www.jnu.ac.in",
+      "institutionName": "Jawaharlal Nehru University",
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:36:06.029553+00:00"
+    },
+    {
+      "domain": "www.ignou.ac.in",
+      "institutionName": "Indira Gandhi National Open University",
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:59.874072+00:00"
+    },
+    {
+      "domain": "jmi.ac.in",
+      "institutionName": "Jamia Millia Islamia",
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:58.884317+00:00"
+    },
+    {
+      "domain": "www.du.ac.in",
+      "institutionName": "University of Delhi",
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:48.311423+00:00"
+    },
+    {
+      "domain": "www.iiitbh.ac.in",
+      "institutionName": "IIIT Bhagalpur",
+      "sectorLabel": "Education",
+      "state": "Bihar",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:40.025413+00:00"
+    },
+    {
+      "domain": "home.iitd.ac.in",
+      "institutionName": "IIT Delhi",
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:39.321284+00:00"
+    },
+    {
+      "domain": "www.mgcub.ac.in",
+      "institutionName": "Mahatma Gandhi Central University",
+      "sectorLabel": "Education",
+      "state": "Bihar",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:27.503543+00:00"
+    },
+    {
+      "domain": "www.ggu.ac.in",
+      "institutionName": "Guru Ghasidas Vishwavidyalaya",
+      "sectorLabel": "Education",
+      "state": "Chhattisgarh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:23.001338+00:00"
+    },
+    {
+      "domain": "www.aiimsraipur.edu.in",
+      "institutionName": "AIIMS Raipur",
+      "sectorLabel": "Education",
+      "state": "Chhattisgarh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:19.509207+00:00"
+    },
+    {
+      "domain": "www.nitp.ac.in",
+      "institutionName": "NIT Patna",
+      "sectorLabel": "Education",
+      "state": "Bihar",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:15.241927+00:00"
+    },
+    {
+      "domain": "www.iitp.ac.in",
+      "institutionName": "IIT Patna",
+      "sectorLabel": "Education",
+      "state": "Bihar",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:06.325732+00:00"
+    },
+    {
+      "domain": "nalandauniv.edu.in",
+      "institutionName": "Nalanda University",
+      "sectorLabel": "Education",
+      "state": "Bihar",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:04.553258+00:00"
+    },
+    {
+      "domain": "cusb.ac.in",
+      "institutionName": "Central University of South Bihar",
+      "sectorLabel": "Education",
+      "state": "Bihar",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:35:00.610422+00:00"
+    },
+    {
+      "domain": "aiimspatna.edu.in",
+      "institutionName": "AIIMS Patna",
+      "sectorLabel": "Education",
+      "state": "Bihar",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:59.615290+00:00"
+    },
+    {
+      "domain": "www.nits.ac.in",
+      "institutionName": "NIT Silchar",
+      "sectorLabel": "Education",
+      "state": "Assam",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:58.992059+00:00"
+    },
+    {
+      "domain": "www.iitg.ac.in",
+      "institutionName": "IIT Guwahati",
+      "sectorLabel": "Education",
+      "state": "Assam",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:50.538146+00:00"
+    },
+    {
+      "domain": "www.iiitg.ac.in",
+      "institutionName": "IIIT Guwahati",
+      "sectorLabel": "Education",
+      "state": "Assam",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:50.211876+00:00"
+    },
+    {
+      "domain": "www.aus.ac.in",
+      "institutionName": "Assam University",
+      "sectorLabel": "Education",
+      "state": "Assam",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:49.613813+00:00"
+    },
+    {
+      "domain": "aiimsguwahati.ac.in",
+      "institutionName": "AIIMS Guwahati",
+      "sectorLabel": "Education",
+      "state": "Assam",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:42.181218+00:00"
+    },
+    {
+      "domain": "www.rgu.ac.in",
+      "institutionName": "Rajiv Gandhi University",
+      "sectorLabel": "Education",
+      "state": "Arunachal Pradesh",
+      "band": "clean",
+      "score": 7.3,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:38.129001+00:00"
+    },
+    {
+      "domain": "www.nitap.ac.in",
+      "institutionName": "NIT Arunachal Pradesh",
+      "sectorLabel": "Education",
+      "state": "Arunachal Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:32.880349+00:00"
+    },
+    {
+      "domain": "www.iittp.ac.in",
+      "institutionName": "IIT Tirupati",
+      "sectorLabel": "Education",
+      "state": "Andhra Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:30.187021+00:00"
+    },
+    {
+      "domain": "www.iiits.ac.in",
+      "institutionName": "IIIT Sri City",
+      "sectorLabel": "Education",
+      "state": "Andhra Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:24.521757+00:00"
+    },
+    {
+      "domain": "nitandhra.ac.in",
+      "institutionName": "NIT Andhra Pradesh",
+      "sectorLabel": "Education",
+      "state": "Andhra Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:20.858198+00:00"
+    },
+    {
+      "domain": "www.aiimsmangalagiri.edu.in",
+      "institutionName": "AIIMS Mangalagiri",
+      "sectorLabel": "Education",
+      "state": "Andhra Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:20.267179+00:00"
+    },
+    {
+      "domain": "cuap.ac.in",
+      "institutionName": "Central University of Andhra Pradesh",
+      "sectorLabel": "Education",
+      "state": "Andhra Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "injectionClass": null,
+      "scannedAt": "2026-09-19T11:34:12.803695+00:00"
+    }
+  ],
+  "recentFindings": [
+    {
+      "sectorLabel": "Government",
+      "state": "Telangana",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:45:32.092214+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "West Bengal",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:45:23.667011+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Tripura",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:45:18.877154+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Uttar Pradesh",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:45:17.305182+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Tamil Nadu",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:45:09.870218+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Puducherry",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:45:05.976259+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Sikkim",
+      "band": "clean",
+      "score": 7.3,
+      "scannedAt": "2026-09-19T11:45:05.408340+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Rajasthan",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:45:02.469473+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Odisha",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:44:57.117223+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Odisha",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:44:54.570726+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Maharashtra",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:44:52.286954+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Mizoram",
+      "band": "suspicious",
+      "score": 24.4,
+      "scannedAt": "2026-09-19T11:44:51.564899+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Nagaland",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:44:51.534584+00:00"
+    },
+    {
+      "sectorLabel": "Government",
+      "state": "Manipur",
+      "band": "clean",
+      "score": 0.0,
+      "scannedAt": "2026-09-19T11:44:32.539211+00:00"
+    },
+    {
+      "sectorLabel": "Education",
+      "state": "Tamil Nadu",
+      "band": "suspicious",
+      "score": 34.1,
+      "scannedAt": "2026-09-19T11:41:22.004585+00:00"
+    },
+    {
+      "sectorLabel": "Education",
+      "state": "Delhi",
+      "band": "suspicious",
+      "score": 26.8,
+      "scannedAt": "2026-09-19T11:36:09.928477+00:00"
+    }
+  ]
+}

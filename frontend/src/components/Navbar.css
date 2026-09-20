@@ -1,0 +1,86 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1rem 1.75rem;
+  background: var(--bg-panel-solid);
+  border-bottom: 1px solid var(--border);
+}
+
+.navbar-wordmark {
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0.02em;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.navbar-wordmark:hover {
+  color: var(--accent);
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.navbar-link {
+  color: var(--fg-dim);
+  text-decoration: none;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.navbar-link:hover {
+  color: var(--fg);
+}
+
+.navbar-link.is-active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.navbar-github {
+  border: 1px solid var(--border-strong);
+  border-radius: 4px;
+  padding: 0.35rem 0.75rem;
+}
+
+.navbar-github:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Below this, four links plus the GitHub button no longer fit beside the
+   wordmark on one line. Drop to two stacked rows instead of a hamburger
+   drawer, still no JS, still reads as one flat bar. */
+@media (max-width: 640px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.65rem;
+    padding: 0.85rem 1.25rem;
+  }
+
+  .navbar-links {
+    width: 100%;
+    gap: 0.9rem 1.1rem;
+  }
+
+  .navbar-link {
+    font-size: 0.82rem;
+  }
+
+  .navbar-github {
+    padding: 0.3rem 0.6rem;
+  }
+}

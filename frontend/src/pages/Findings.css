@@ -1,0 +1,230 @@
+.findings-page {
+  position: relative;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: clamp(2rem, 6vh, 3.5rem) clamp(1rem, 5vw, 1.5rem);
+}
+
+.findings-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lookup-panel {
+  width: 100%;
+  padding: clamp(2rem, 7vw, 3.75rem) clamp(1.5rem, 6vw, 3.25rem);
+  text-align: center;
+}
+
+.lookup-heading {
+  font-size: clamp(2rem, 6vw, 3.25rem);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  text-shadow: 0 0 40px rgba(97, 220, 163, 0.22);
+}
+
+.lookup-subheading {
+  margin-top: 1rem;
+  max-width: 46ch;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: clamp(1rem, 2.4vw, 1.2rem);
+  font-weight: 500;
+  color: var(--fg-dim);
+}
+
+.lookup-form {
+  margin-top: 2.25rem;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.lookup-input {
+  flex: 1;
+  min-width: 220px;
+  max-width: 340px;
+  font-family: var(--mono);
+  font-size: 0.95rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg-panel-solid);
+  border: 1px solid var(--border-strong);
+  border-radius: 4px;
+  color: var(--fg);
+}
+
+.lookup-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.lookup-input::placeholder {
+  color: var(--fg-faint);
+}
+
+.result-card {
+  margin-top: 1.75rem;
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-align: left;
+}
+
+.result-card-rejected {
+  border-color: rgba(242, 104, 95, 0.4);
+}
+
+.result-card-rejected p {
+  color: var(--band-compromised);
+}
+
+.result-card-neutral p {
+  color: var(--fg-dim);
+}
+
+.result-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.result-domain {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--fg);
+}
+
+.result-meta {
+  margin: 1.25rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem 1.5rem;
+}
+
+.result-meta dt {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--fg-faint);
+}
+
+.result-meta dd {
+  margin: 0.2rem 0 0;
+  color: var(--fg);
+}
+
+.result-note {
+  margin-top: 1.25rem;
+  font-size: 0.85rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+}
+
+.band-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}
+
+.band-clean {
+  color: var(--band-clean);
+  background: rgba(107, 232, 172, 0.14);
+  border: 1px solid rgba(107, 232, 172, 0.4);
+}
+
+.band-suspicious {
+  color: var(--band-suspicious);
+  background: rgba(240, 216, 120, 0.14);
+  border: 1px solid rgba(240, 216, 120, 0.4);
+}
+
+.band-likely_compromised {
+  color: var(--band-likely);
+  background: rgba(240, 160, 92, 0.14);
+  border: 1px solid rgba(240, 160, 92, 0.4);
+}
+
+.band-compromised {
+  color: var(--band-compromised);
+  background: rgba(242, 104, 95, 0.14);
+  border: 1px solid rgba(242, 104, 95, 0.4);
+}
+
+.recent-trigger {
+  margin-top: 2rem;
+}
+
+.recent-intro {
+  font-size: 0.85rem;
+}
+
+.recent-loading {
+  margin-top: 1rem;
+}
+
+.recent-list {
+  list-style: none;
+  margin: 1.25rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.recent-item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  flex-wrap: wrap;
+  padding: 0.75rem 1rem;
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+
+.recent-sector {
+  color: var(--fg);
+}
+
+.recent-state {
+  color: var(--fg-dim);
+}
+
+.recent-score {
+  color: var(--fg-dim);
+}
+
+.recent-time {
+  margin-left: auto;
+  color: var(--fg-faint);
+  font-size: 0.78rem;
+}
+
+@media (max-width: 480px) {
+  .recent-item {
+    font-size: 0.78rem;
+  }
+
+  .recent-time {
+    margin-left: 0;
+    font-size: 0.72rem;
+  }
+}

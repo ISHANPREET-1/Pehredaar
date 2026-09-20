@@ -1,0 +1,58 @@
+.about-page {
+  position: relative;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-shell {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 3rem clamp(1rem, 4vw, 1.5rem) 5rem;
+}
+
+.about-content {
+  padding: clamp(1.5rem, 6vw, 2.5rem) clamp(1.25rem, 6vw, 2.5rem) clamp(1.75rem, 6vw, 3rem);
+}
+
+.about-content h1 {
+  font-size: 2rem;
+}
+
+.about-content section {
+  margin-top: 2.5rem;
+}
+
+.about-content h2 {
+  font-size: 1.15rem;
+  color: var(--accent);
+}
+
+.about-content p {
+  margin-top: 0.75rem;
+}
+
+.about-content p + p {
+  margin-top: 1rem;
+}
+
+.profile-list {
+  margin: 1rem 0 0;
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.profile-list li {
+  color: var(--fg-dim);
+}
+
+.profile-list strong {
+  color: var(--fg);
+}
