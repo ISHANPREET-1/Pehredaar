@@ -1,0 +1,52 @@
+# Data, not code. See CLAUDE.md section 5: signal modules read these lists,
+# nobody hardcodes a keyword inside a .py file.
+
+gambling:
+  - satta
+  - satta matka
+  - matka result
+  - teen patti
+  - teenpatti
+  - online rummy
+  - cricket betting
+  - ipl betting
+  - online casino
+  - slot machine
+  - jackpot winner
+  - deposit bonus
+  - withdraw winnings
+  - online lottery
+  - fantasy cricket app
+  - 1xbet
+  - parimatch
+
+pharma:
+  - buy viagra online
+  - viagra without prescription
+  - cialis online
+  - buy tramadol online
+  - buy xanax online
+  - generic sildenafil
+  - generic tadalafil
+  - online pharmacy no prescription
+  - weight loss pills online
+
+# Words that, near a gambling hit, mean the page is enforcement or awareness
+# content rather than spam. Police, court and cyber cell pages legitimately
+# discuss satta. Used by the downweight guard in CLAUDE.md section 5.
+legal_context:
+  - act
+  - section
+  - prohibition
+  - prohibited
+  - seized
+  - arrested
+  - fir
+  - advisory
+  - banned
+  - notification
+  - cyber cell
+  - cyber crime
+  - police station
+  - high court
+  - supreme court

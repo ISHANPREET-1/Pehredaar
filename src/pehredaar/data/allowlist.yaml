@@ -1,0 +1,42 @@
+# Domains and hosts that must never contribute to a compromised verdict, even
+# if a signal fires on them. Data, not code. See the false positive guards in
+# CLAUDE.md section 5.
+
+# Official state lottery departments and legitimate lottery pages. A .gov.in
+# page that sells or lists a state lottery is not cloaking.
+domains:
+  - statelotteries.nic.in
+
+# Script and asset hosts that are known CDNs, so S7 (injected_script) does not
+# fire on a government site's own CDN usage. The first block fired as noise on
+# iitb.ac.in and du.ac.in during Phase 2's real scans; the second block is
+# other extremely common analytics and CDN hosts likely to recur across
+# Indian college and government sites; the third block is what actually fired
+# most often across the real Phase 3 batch run of 189 seed domains.
+cdn_hosts:
+  - cdn.jsdelivr.net
+  - www.googletagmanager.com
+  - connect.facebook.net
+  - platform.x.com
+  - unpkg.com
+  - www.google-analytics.com
+  - static.hotjar.com
+  - cdnjs.cloudflare.com
+  - fonts.googleapis.com
+  - ajax.googleapis.com
+  - code.jquery.com
+  - translate.google.com
+  - platform.twitter.com
+  - translation-plugin.bhashini.co.in
+  - cse.google.com
+  - cdn.datatables.net
+  - stats.wp.com
+  - counter.websiteout.com
+  - cdn.onesignal.com
+  - maxcdn.bootstrapcdn.com
+  - stackpath.bootstrapcdn.com
+  - maps.googleapis.com
+  - use.fontawesome.com
+  - cdn.gtranslate.net
+  - code.highcharts.com
+  - code.responsivevoice.org

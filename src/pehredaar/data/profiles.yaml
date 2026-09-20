@@ -1,0 +1,22 @@
+# Four visitor identities used to fetch every domain, in this order, with a
+# politeness delay between each. See CLAUDE.md section 4.
+#
+# mobile_serp is the one that matters most: it is the only profile that
+# carries a Google search referer, which is what a cloaked injection keys off.
+profiles:
+  - key: desktop
+    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    extra_headers: {}
+
+  - key: mobile
+    user_agent: "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36"
+    extra_headers: {}
+
+  - key: mobile_serp
+    user_agent: "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36"
+    extra_headers:
+      Referer: "https://www.google.com/"
+
+  - key: googlebot
+    user_agent: "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    extra_headers: {}
