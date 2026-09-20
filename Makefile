@@ -1,6 +1,6 @@
 PYTHON := python3
 
-.PHONY: install test lint scan
+.PHONY: install test lint scan api
 
 install:
 	$(PYTHON) -m pip install -r requirements.txt -r requirements-dev.txt
@@ -13,3 +13,6 @@ lint:
 
 scan:
 	PYTHONPATH=src $(PYTHON) -m pehredaar.cli scan $(DOMAIN)
+
+api:
+	PYTHONPATH=src $(PYTHON) -m uvicorn pehredaar.handlers.api:app --host 127.0.0.1 --port 8000

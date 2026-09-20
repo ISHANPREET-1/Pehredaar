@@ -90,6 +90,15 @@ function Findings() {
             </button>
           </form>
 
+          {checking && (
+            <div className="result-card result-card-neutral">
+              <p>
+                Scanning live now, fetching four visitor profiles with a polite delay between
+                each. This can take up to fifteen seconds.
+              </p>
+            </div>
+          )}
+
           {result && result.status === 'rejected' && (
             <div className="result-card result-card-rejected">
               <p>{result.reason}</p>
